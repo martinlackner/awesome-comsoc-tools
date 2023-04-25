@@ -17,26 +17,24 @@ This list collects high-quality code libraries, software tools and web applicati
 - [Web tools](#web-tools)
 - [Data](#data)
 - [Community](#community)
-- [Contribute](#contribute)
 
 ## Python Libraries
 
-- [apportionment](https://github.com/martinlackner/apportionment): implementations of common apportionment methods
-![https://pypi.python.org/pypi/apportionment](https://img.shields.io/pypi/v/apportionment.svg) ![docs](https://img.shields.io/badge/docs-no-red) ![](https://img.shields.io/github/last-commit/martinlackner/apportionment)
-- [abcvoting](https://github.com/martinlackner/abcvoting): multi-winner voting with approval preferences [![PyPi](https://badgen.net/pypi/v/abcvoting)](https://pypi.org/project/abcvoting/) [![docs](https://img.shields.io/badge/docs-available-green)](https://abcvoting.readthedocs.io/en/latest/) ![](https://img.shields.io/github/last-commit/martinlackner/abcvoting)
-- [mapel](https://github.com/szufix/mapel): generates maps of elections ![https://pypi.python.org/pypi/mapel](https://img.shields.io/pypi/v/mapel.svg) ![docs](https://img.shields.io/badge/docs-no-red) ![](https://img.shields.io/github/last-commit/szufix/mapel)
-- [Preferential Voting Tools](https://github.com/voting-tools/pref_voting): extensive collection of preferential voting methods [![pypi](https://img.shields.io/pypi/v/pref_voting.svg)](https://pypi.python.org/pypi/pref_voting) [![docs](https://img.shields.io/badge/docs-available-green)](https://pref-voting.readthedocs.io/en/latest/) ![](https://img.shields.io/github/last-commit/voting-tools/pref_voting)
-- [Preflibtools](https://github.com/PrefLib/preflibtools): tools for working with data from PrefLib.org  [![pypi](https://img.shields.io/pypi/v/preflibtools.svg)](https://pypi.python.org/pypi/preflibtools) [![docs](https://img.shields.io/badge/docs-available-green)](https://www.docs.preflib.org/) ![](https://img.shields.io/github/last-commit/PrefLib/preflibtools)
-- [Votelib](https://github.com/simberaj/votelib): implementations of a variety of voting rules (including single- and multi-winner rules) [![pypi](https://img.shields.io/pypi/v/votelib.svg)](https://pypi.python.org/pypi/votelib) [![docs](https://img.shields.io/badge/docs-available-green)](https://votelib.readthedocs.io/en/latest/) ![](https://img.shields.io/github/last-commit/simberaj/votelib)
+- [abcvoting](https://github.com/martinlackner/abcvoting): multi-winner voting with approval preferences <!--[![PyPi](https://badgen.net/pypi/v/abcvoting)](https://pypi.org/project/abcvoting/) [![docs](https://img.shields.io/badge/docs-available-green)](https://abcvoting.readthedocs.io/en/latest/) ![](https://img.shields.io/github/last-commit/martinlackner/abcvoting)-->
+- [apportionment](https://github.com/martinlackner/apportionment): implementations of common apportionment methods <!--![https://pypi.python.org/pypi/apportionment](https://img.shields.io/pypi/v/apportionment.svg) [![docs](https://img.shields.io/badge/docs-no-red)]() ![](https://img.shields.io/github/last-commit/martinlackner/apportionment)-->
+- [mapel](https://github.com/szufix/mapel): generates maps of elections <!--![https://pypi.python.org/pypi/mapel](https://img.shields.io/pypi/v/mapel.svg) [![docs](https://img.shields.io/badge/docs-no-red)]() ![](https://img.shields.io/github/last-commit/szufix/mapel)-->
+- [Preferential Voting Tools](https://github.com/voting-tools/pref_voting): extensive collection of preferential voting methods <!--[![pypi](https://img.shields.io/pypi/v/pref_voting.svg)](https://pypi.python.org/pypi/pref_voting) [![docs](https://img.shields.io/badge/docs-available-green)](https://pref-voting.readthedocs.io/en/latest/) ![](https://img.shields.io/github/last-commit/voting-tools/pref_voting)-->
+- [Preflibtools](https://github.com/PrefLib/preflibtools): tools for working with data from PrefLib.org <!--[![pypi](https://img.shields.io/pypi/v/preflibtools.svg)](https://pypi.python.org/pypi/preflibtools) [![docs](https://img.shields.io/badge/docs-available-green)](https://www.docs.preflib.org/) ![](https://img.shields.io/github/last-commit/PrefLib/preflibtools)-->
+- [Votelib](https://github.com/simberaj/votelib): implementations of a variety of voting rules, including single- and multi-winner rules <!--[![pypi](https://img.shields.io/pypi/v/votelib.svg)](https://pypi.python.org/pypi/votelib) [![docs](https://img.shields.io/badge/docs-available-green)](https://votelib.readthedocs.io/en/latest/) ![](https://img.shields.io/github/last-commit/simberaj/votelib)-->
 
 
 ## Web tools
 
 ### Research tools
 
-- [multi-winner voting with approval preferences](https://pref.tools/abcvoting/): web tool for the abcvoting Python library
 - [apportionment methods](https://pref.tools/apportionment/) 
 - [fair rent division](https://pref.tools/rent/)
+- [multi-winner voting with approval preferences](https://pref.tools/abcvoting/): web tool for the abcvoting Python library
 - [voting.ml](https://voting.ml/): a tool for computing single-winner voting rules, in particular it visualizes Maximal Lotteries
 
 ### Multi-user web tools (online polls)
@@ -47,8 +45,8 @@ This list collects high-quality code libraries, software tools and web applicati
 
 ## Data
 
-- [PrefLib](https://www.preflib.org/): library of preference data
 - [Pabulib](http://pabulib.org/): participatory budgeting data
+- [PrefLib](https://www.preflib.org/): library of preference data
 
 
 ## Community
