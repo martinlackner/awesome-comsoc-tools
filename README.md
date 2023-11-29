@@ -41,8 +41,9 @@ This list collects high-quality code libraries, software tools and web applicati
 
 ### Multi-user web tools (online polls)
 
-- [Pnyx](https://pnyx.dss.in.tum.de/): web tool for  preference aggregation (possible output: single winner, lotteries, rankings)
+- [Pnyx](https://pnyx.dss.in.tum.de/): web tool for preference aggregation (possible output: single winner, lotteries, rankings)
 - [Whale](https://whale5.noiraudes.net/): Which Alternative is Elected?
+- [Stable Voting](https://stablevoting.org/): online polls using the "Stable Voting" Condorcet method
  
 
 ## Data
