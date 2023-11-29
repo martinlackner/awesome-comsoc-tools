@@ -38,6 +38,7 @@ This list collects high-quality code libraries, software tools and web applicati
 - [fair rent division](https://pref.tools/rent/)
 - [multi-winner voting with approval preferences](https://pref.tools/abcvoting/): web tool for the abcvoting Python library
 - [voting.ml](https://voting.ml/): a tool for computing single-winner voting rules, in particular it visualizes Maximal Lotteries
+- [MES online computation tool](https://equalshares.net/tools/compute): a tool that allows uploading a participatory budgeting voting instance and computes the winners according to the Method of Equal Shares (for researchers and for end users)
 
 ### Multi-user web tools (online polls)
 
